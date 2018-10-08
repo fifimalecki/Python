@@ -1,0 +1,5 @@
+krotka=('a','b','c','d')
+print("".join(krotka))
+print(" ".join(krotka))
+print(", ".join(krotka))
+print("\t".join(tuple(('0')*100)))

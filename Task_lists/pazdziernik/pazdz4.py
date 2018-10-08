@@ -1,0 +1,1 @@
+#w python3 nie ma maxint, bo nie jest on ograniczony

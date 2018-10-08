@@ -1,0 +1,13 @@
+studenty=["Kasia","Basia","Marek","Darek"]
+studenty.append("Józek")
+studenty.extend(["Ania","Basia"])
+studenty.sort()
+print(studenty)
+print(studenty[3])
+print(studenty[:2])
+print(studenty[-2:])
+studenty.remove("Basia")
+studenty.remove("Basia")
+print(len(studenty))
+studenciaki=tuple(studenty)
+print(studenciaki)
